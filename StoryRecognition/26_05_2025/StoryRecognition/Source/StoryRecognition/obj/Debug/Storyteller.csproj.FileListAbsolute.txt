@@ -1,4 +1,0 @@
-C:\Users\mfbel\Desktop\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\Mods\Storyteller\Source\Storyteller\obj\Debug\Storyteller.csproj.AssemblyReference.cache
-C:\Users\mfbel\Desktop\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\Mods\Storyteller\Source\Storyteller\obj\Debug\Storyteller.csproj.CoreCompileInputs.cache
-C:\Users\mfbel\Desktop\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\Mods\Storyteller\Assemblies\Storyteller.dll
-C:\Users\mfbel\Desktop\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\Mods\Storyteller\Source\Storyteller\obj\Debug\Storyteller.dll

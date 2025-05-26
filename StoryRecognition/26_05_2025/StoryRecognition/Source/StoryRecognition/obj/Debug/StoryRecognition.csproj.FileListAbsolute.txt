@@ -1,9 +1,0 @@
-C:\Users\mfbel\Desktop\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\Mods\Storyteller\Assemblies\StoryRecognition.dll
-C:\Users\mfbel\Desktop\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\Mods\Storyteller\Source\Storyteller\obj\Debug\StoryRecognition.csproj.AssemblyReference.cache
-C:\Users\mfbel\Desktop\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\Mods\Storyteller\Source\Storyteller\obj\Debug\StoryRecognition.csproj.CoreCompileInputs.cache
-C:\Users\mfbel\Desktop\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\Mods\Storyteller\Source\Storyteller\obj\Debug\StoryRecognition.dll
-C:\Users\mfbel\Desktop\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\Mods\StoryRecognition\Assemblies\StoryRecognition.dll
-C:\Users\mfbel\Desktop\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\Mods\StoryRecognition\Source\StoryRecognition\obj\Debug\StoryRecognition.csproj.AssemblyReference.cache
-C:\Users\mfbel\Desktop\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\Mods\StoryRecognition\Source\StoryRecognition\obj\Debug\StoryRecognition.csproj.CoreCompileInputs.cache
-C:\Users\mfbel\Desktop\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\Mods\StoryRecognition\Source\StoryRecognition\obj\Debug\StoryRec.34CF4D11.Up2Date
-C:\Users\mfbel\Desktop\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\RimWorld.v1.5.4241.ALL.DLC\Mods\StoryRecognition\Source\StoryRecognition\obj\Debug\StoryRecognition.dll
